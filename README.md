@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**john-herrada/john-herrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Jonathan Herrada Santos
 
-Here are some ideas to get you started:
+Desarrollador Web Jr.  
+Recien egresado de la licenciatura en Tecnologias de la Información. En busca de una oportunidad dentro del área de programación, aprendizaje constante y trabajando con proyectos freelance.
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![App Screenshot](https://github.com/john-herrada/john-herrada/blob/cc9663c8189ae0ba61d0e609e56cf6b8521c3c22/bitmap.png)
+
+
+
+
+
+
+
+
